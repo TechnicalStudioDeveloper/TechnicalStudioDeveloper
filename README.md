@@ -1,10 +1,8 @@
-## TechnicalStudioDeveloper
+## DevKumar00001
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7FF&lines=Hi%2C+my+name+is+Dev+Kumar;I+live+in+India;I+can+speak+Hindi,and+English)](https://git.io/typing-svg)
 
 ![avatar](https://images.weserv.nl/?url=https://github.com/TechnicalStudioDeveloper.png?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d)
-
-My name is Dev Kumar,but my username is TechnicalStudioDeveloper.I just got this username from google search.Initially I don't have a good username in GitHub,So I googled for username and by combination of two user name I got this username.
 
 #### Study
 I am currently in 10th class[2023]
